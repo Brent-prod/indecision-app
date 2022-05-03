@@ -1,2 +1,3 @@
 # indecision-app
-# git check indecision-app
+# indecision-app
+### readme coming soon
